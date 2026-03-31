@@ -2,15 +2,15 @@
 
 OneFit was acquired by UrbanSportsClub, and thus all the APIs have changed as well as the data model and most of the domain logic, thus... this client is being discontinued and replaced by a new one:
 
-https://github.com/christophpickl/LocalSportsClub
+https://github.com/seepick/LocalSportsClub
 
 # AllFit
 
 A desktop client for **OneFit** which feels a bit like communism: _From the people for the people_.
 
-![AllFit Logo](https://raw.githubusercontent.com/christophpickl/allfit/main/docs/logo.png "AllFit")
+![AllFit Logo](https://raw.githubusercontent.com/seepick/allfit/main/docs/logo.png "AllFit")
 
-This is a more detailed (technically) page; you might look for the [official landing page](https://christophpickl.github.io/allfit/).
+This is a more detailed (technically) page; you might look for the [official landing page](https://seepick.github.io/allfit/).
 
 ## Features
 
